@@ -1,4 +1,4 @@
-import { FaTimes, FaEdit, FaReact } from "react-icons/fa"
+import { FaTimes, FaEdit } from "react-icons/fa"
 import Card from "./shared/Card"
 import { useContext } from "react"
 import FeedbackContext from "../context/FeedbackContext"
